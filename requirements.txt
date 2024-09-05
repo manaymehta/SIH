@@ -1,0 +1,8 @@
+dotenv
+base64
+streamlit
+os
+io
+PIL
+pdf2image
+google.generativeai
